@@ -23,7 +23,7 @@ repository               : "NinetysevenPercent/zsb.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "personal.png"
   name             : "Shibo Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Zero-Year PhD student"
